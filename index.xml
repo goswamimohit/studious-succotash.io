@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Scientist on Mohit Goswami</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Data Scientist on Mohit Goswami</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project-1 Exploratory Data Analysis on Credit Card Transcation</title>
+      <link>https://example.com/post/project-1/</link>
+      <pubDate>Sat, 01 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://example.com/post/project-1/</guid>
+      <description>Perform exploratory data analysis and provide key insights derived from the same backed with suitable graphs and plots.
+  Dataset Description: The dataset is based on the “Statlog Dataset” from the UCI Machine Learning Repository. Columns of the dataset and their meaning are as follows;
+  Provide the following information about the dataframe;
+  Dimensions of the dataframe Information about the schema Statistical metrics of each column</description>
+    </item>
+    
+    <item>
+      <title>Chapter II: Pierre Gringoire</title>
+      <link>https://example.com/post/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://example.com/post/chapter-2/</guid>
+      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
+“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Illustration from Victor Hugo et son temps (1881)   The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>following me on this social Media Platform
+   Platform URL     YouTube: https://www.youtube.com/c/kenjee1?sub_confirmation=1   Website: https://www.playingnumbers.com, https://kennethjee.com/   Twitter: https://twitter.com/KenJee_DS   LinkedIn: https://www.linkedin.com/in/kenjee/   Medium: https://medium.com/@kenneth.b.jee   GitHub: https://github.com/PlayingNumbers    </description>
+    </item>
+    
+  </channel>
+</rss>
